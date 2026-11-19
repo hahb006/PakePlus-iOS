@@ -20,29 +20,29 @@
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-FDFE4C22BC4F</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-DBECF4FA451F</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-FDFE4C22BC4F</string>
+			<string>E0736409-C08F-4F54-86DA-DBECF4FA451F</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://xykfb6f929.coze.site</string>
+			<string>https://youxi.anxiangzaojing.vip/</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>万象娱乐</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-FDFE4C22BC4F</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-DBECF4FA451F</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-FDFE4C22BC4F</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-DBECF4FA451F</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
